@@ -1,6 +1,6 @@
 package com.example.demo.business.domain;
 
-import java.sql.Date;
+import java.util.Date;
 
 public class RoomReservation {
     private long roomId;
